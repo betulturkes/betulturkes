@@ -1,10 +1,10 @@
 Hi 👋 My name is Betül
 ======================
 
-Computer Engineering Student in Ege University
+Computer Engineering Graduate in Ege University
 ----------------------------------------------
 
-* 🌍  I'm based in Izmir / Istanbul
+* 🌍  I'm based in Istanbul / Izmir
 * ✉️  You can contact me at [bbetulturkess@gmail.com](mailto:bbetulturkess@gmail.com)
 * 🧠  I'm learning Devops
 
